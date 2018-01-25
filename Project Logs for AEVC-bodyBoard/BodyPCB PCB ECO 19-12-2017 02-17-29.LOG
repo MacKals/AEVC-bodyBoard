@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=2SIGNAL4 Pin=U1-36
+Added Pin To Net: NetName=2SIGNAL3 Pin=U1-37
+Added Pin To Net: NetName=2SIGNAL1 Pin=U1-39
+Added Pin To Net: NetName=2SIGNAL2 Pin=U1-69
+Added Member To Class: ClassName=Sense2Pin1 Member=Component P5_Sense2Pin1 (P5) Header 2
+Added Room: Name=Sense2Pin1
+Added Room: Name=Sense2Pin2
+Added Room: Name=Sense2Pin3
+Added Room: Name=Sense2Pin4
+Added Room: Name=Sense2Pin5
+Added Room: Name=Sense2Pin6
+Added Room: Name=Sense3Pin1
+Added Room: Name=Sense3Pin2
+Added Room: Name=Sense3Pin3
+Added Room: Name=Sense3Pin4

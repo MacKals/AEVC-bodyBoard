@@ -1,0 +1,13 @@
+Change Physical Footprint: Designator=L1 Old Footprint=IHLP-2525C7 New Footprint=IHLP-2525C7
+Change Physical Footprint: Designator=Q3_Drive2Pin1 Old Footprint=E3 New Footprint=E3
+Change Physical Footprint: Designator=Q3_Drive2Pin2 Old Footprint=E3 New Footprint=E3
+Change Physical Footprint: Designator=Q3_Drive2Pin3 Old Footprint=E3 New Footprint=E3
+Change Physical Footprint: Designator=Q3_Drive2Pin4 Old Footprint=E3 New Footprint=E3
+Change Physical Footprint: Designator=R1 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R2 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R3 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R4 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R5 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R6 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=U1 Old Footprint=DDA8 New Footprint=DDA8
+Change Physical Footprint: Designator=U2 Old Footprint=Teensy3p6_full New Footprint=Teensy3p6_full

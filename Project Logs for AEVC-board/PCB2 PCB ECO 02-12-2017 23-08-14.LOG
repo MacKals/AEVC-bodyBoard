@@ -1,0 +1,360 @@
+Added Component: Designator=C11_Stepper1(CAP_EEFK_D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=C11_Stepper2(CAP_EEFK_D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=C11_Stepper3(CAP_EEFK_D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=C11_Stepper4(CAP_EEFK_D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=C11_Stepper5(CAP_EEFK_D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=C11_Stepper6(CAP_EEFK_D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=P2_Stepper1(HDR1X9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2_Stepper2(HDR1X9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2_Stepper3(HDR1X9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2_Stepper4(HDR1X9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2_Stepper5(HDR1X9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2_Stepper6(HDR1X9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Stepper1(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Stepper2(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Stepper3(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Stepper4(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Stepper5(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Stepper6(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR2X13)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(HDR2X13)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C11_Stepper1-2
+Added Pin To Net: NetName=GND Pin=C11_Stepper2-2
+Added Pin To Net: NetName=GND Pin=C11_Stepper3-2
+Added Pin To Net: NetName=GND Pin=C11_Stepper4-2
+Added Pin To Net: NetName=GND Pin=C11_Stepper5-2
+Added Pin To Net: NetName=GND Pin=C11_Stepper6-2
+Added Pin To Net: NetName=GND Pin=P2_Stepper1-1
+Added Pin To Net: NetName=GND Pin=P2_Stepper2-1
+Added Pin To Net: NetName=GND Pin=P2_Stepper3-1
+Added Pin To Net: NetName=GND Pin=P2_Stepper4-1
+Added Pin To Net: NetName=GND Pin=P2_Stepper5-1
+Added Pin To Net: NetName=GND Pin=P2_Stepper6-1
+Added Pin To Net: NetName=GND Pin=P3_Stepper1-1
+Added Pin To Net: NetName=GND Pin=P3_Stepper2-1
+Added Pin To Net: NetName=GND Pin=P3_Stepper3-1
+Added Pin To Net: NetName=GND Pin=P3_Stepper4-1
+Added Pin To Net: NetName=GND Pin=P3_Stepper5-1
+Added Pin To Net: NetName=GND Pin=P3_Stepper6-1
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetP2_Stepper1_8 Pin=P2_Stepper1-8
+Added Pin To Net: NetName=NetP2_Stepper1_8 Pin=P3_Stepper1-3
+Added Net: Name=NetP2_Stepper1_8
+Added Pin To Net: NetName=NetP2_Stepper1_9 Pin=P2_Stepper1-9
+Added Pin To Net: NetName=NetP2_Stepper1_9 Pin=P3_Stepper1-2
+Added Net: Name=NetP2_Stepper1_9
+Added Pin To Net: NetName=NetP2_Stepper2_8 Pin=P2_Stepper2-8
+Added Pin To Net: NetName=NetP2_Stepper2_8 Pin=P3_Stepper2-3
+Added Net: Name=NetP2_Stepper2_8
+Added Pin To Net: NetName=NetP2_Stepper2_9 Pin=P2_Stepper2-9
+Added Pin To Net: NetName=NetP2_Stepper2_9 Pin=P3_Stepper2-2
+Added Net: Name=NetP2_Stepper2_9
+Added Pin To Net: NetName=NetP2_Stepper3_8 Pin=P2_Stepper3-8
+Added Pin To Net: NetName=NetP2_Stepper3_8 Pin=P3_Stepper3-3
+Added Net: Name=NetP2_Stepper3_8
+Added Pin To Net: NetName=NetP2_Stepper3_9 Pin=P2_Stepper3-9
+Added Pin To Net: NetName=NetP2_Stepper3_9 Pin=P3_Stepper3-2
+Added Net: Name=NetP2_Stepper3_9
+Added Pin To Net: NetName=NetP2_Stepper4_8 Pin=P2_Stepper4-8
+Added Pin To Net: NetName=NetP2_Stepper4_8 Pin=P3_Stepper4-3
+Added Net: Name=NetP2_Stepper4_8
+Added Pin To Net: NetName=NetP2_Stepper4_9 Pin=P2_Stepper4-9
+Added Pin To Net: NetName=NetP2_Stepper4_9 Pin=P3_Stepper4-2
+Added Net: Name=NetP2_Stepper4_9
+Added Pin To Net: NetName=NetP2_Stepper5_8 Pin=P2_Stepper5-8
+Added Pin To Net: NetName=NetP2_Stepper5_8 Pin=P3_Stepper5-3
+Added Net: Name=NetP2_Stepper5_8
+Added Pin To Net: NetName=NetP2_Stepper5_9 Pin=P2_Stepper5-9
+Added Pin To Net: NetName=NetP2_Stepper5_9 Pin=P3_Stepper5-2
+Added Net: Name=NetP2_Stepper5_9
+Added Pin To Net: NetName=NetP2_Stepper6_8 Pin=P2_Stepper6-8
+Added Pin To Net: NetName=NetP2_Stepper6_8 Pin=P3_Stepper6-3
+Added Net: Name=NetP2_Stepper6_8
+Added Pin To Net: NetName=NetP2_Stepper6_9 Pin=P2_Stepper6-9
+Added Pin To Net: NetName=NetP2_Stepper6_9 Pin=P3_Stepper6-2
+Added Net: Name=NetP2_Stepper6_9
+Added Pin To Net: NetName=NetP4_11 Pin=P4-11
+Added Net: Name=NetP4_11
+Added Pin To Net: NetName=NetP4_13 Pin=P4-13
+Added Net: Name=NetP4_13
+Added Pin To Net: NetName=NetP4_14 Pin=P4-14
+Added Net: Name=NetP4_14
+Added Pin To Net: NetName=NetP4_15 Pin=P4-15
+Added Net: Name=NetP4_15
+Added Pin To Net: NetName=NetP4_16 Pin=P4-16
+Added Net: Name=NetP4_16
+Added Pin To Net: NetName=NetP4_17 Pin=P4-17
+Added Net: Name=NetP4_17
+Added Pin To Net: NetName=NetP4_18 Pin=P4-18
+Added Net: Name=NetP4_18
+Added Pin To Net: NetName=NetP4_19 Pin=P4-19
+Added Net: Name=NetP4_19
+Added Pin To Net: NetName=NetP4_20 Pin=P4-20
+Added Net: Name=NetP4_20
+Added Pin To Net: NetName=NetP4_21 Pin=P4-21
+Added Net: Name=NetP4_21
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Net: Name=NetP5_2
+Added Pin To Net: NetName=NetP5_3 Pin=P5-3
+Added Net: Name=NetP5_3
+Added Pin To Net: NetName=NetP5_4 Pin=P5-4
+Added Net: Name=NetP5_4
+Added Pin To Net: NetName=NetP5_6 Pin=P5-6
+Added Net: Name=NetP5_6
+Added Pin To Net: NetName=NetP5_7 Pin=P5-7
+Added Net: Name=NetP5_7
+Added Pin To Net: NetName=NetP5_9 Pin=P5-9
+Added Net: Name=NetP5_9
+Added Pin To Net: NetName=NetP5_11 Pin=P5-11
+Added Net: Name=NetP5_11
+Added Pin To Net: NetName=NetP5_13 Pin=P5-13
+Added Net: Name=NetP5_13
+Added Pin To Net: NetName=NetP5_15 Pin=P5-15
+Added Net: Name=NetP5_15
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Net: Name=NetP6_2
+Added Pin To Net: NetName=NetP6_3 Pin=P6-3
+Added Net: Name=NetP6_3
+Added Pin To Net: NetName=NetP6_4 Pin=P6-4
+Added Net: Name=NetP6_4
+Added Pin To Net: NetName=NetP6_5 Pin=P6-5
+Added Net: Name=NetP6_5
+Added Pin To Net: NetName=NetP6_6 Pin=P6-6
+Added Net: Name=NetP6_6
+Added Pin To Net: NetName=POS5V Pin=P2_Stepper1-7
+Added Pin To Net: NetName=POS5V Pin=P2_Stepper2-7
+Added Pin To Net: NetName=POS5V Pin=P2_Stepper3-7
+Added Pin To Net: NetName=POS5V Pin=P2_Stepper4-7
+Added Pin To Net: NetName=POS5V Pin=P2_Stepper5-7
+Added Pin To Net: NetName=POS5V Pin=P2_Stepper6-7
+Added Net: Name=POS5V
+Added Pin To Net: NetName=RX1 Pin=P4-3
+Added Net: Name=RX1
+Added Pin To Net: NetName=StepperCHOP1 Pin=P2_Stepper1-6
+Added Pin To Net: NetName=StepperCHOP1 Pin=P4-22
+Added Net: Name=StepperCHOP1
+Added Pin To Net: NetName=StepperCHOP2 Pin=P2_Stepper2-6
+Added Pin To Net: NetName=StepperCHOP2 Pin=P4-23
+Added Net: Name=StepperCHOP2
+Added Pin To Net: NetName=StepperCHOP3 Pin=P2_Stepper3-6
+Added Pin To Net: NetName=StepperCHOP3 Pin=P4-24
+Added Net: Name=StepperCHOP3
+Added Pin To Net: NetName=StepperCHOP4 Pin=P2_Stepper4-6
+Added Pin To Net: NetName=StepperCHOP4 Pin=P4-25
+Added Net: Name=StepperCHOP4
+Added Pin To Net: NetName=StepperCHOP5 Pin=P2_Stepper5-6
+Added Pin To Net: NetName=StepperCHOP5 Pin=P4-26
+Added Net: Name=StepperCHOP5
+Added Pin To Net: NetName=StepperCHOP6 Pin=P2_Stepper6-6
+Added Pin To Net: NetName=StepperCHOP6 Pin=P6-1
+Added Net: Name=StepperCHOP6
+Added Pin To Net: NetName=StepperDIR1 Pin=P2_Stepper1-3
+Added Pin To Net: NetName=StepperDIR1 Pin=P5-8
+Added Net: Name=StepperDIR1
+Added Pin To Net: NetName=StepperDIR2 Pin=P2_Stepper2-3
+Added Pin To Net: NetName=StepperDIR2 Pin=P5-10
+Added Net: Name=StepperDIR2
+Added Pin To Net: NetName=StepperDIR3 Pin=P2_Stepper3-3
+Added Pin To Net: NetName=StepperDIR3 Pin=P5-12
+Added Net: Name=StepperDIR3
+Added Pin To Net: NetName=StepperDIR4 Pin=P2_Stepper4-3
+Added Pin To Net: NetName=StepperDIR4 Pin=P5-14
+Added Net: Name=StepperDIR4
+Added Pin To Net: NetName=StepperDIR5 Pin=P2_Stepper5-3
+Added Net: Name=StepperDIR5
+Added Pin To Net: NetName=StepperDIR6 Pin=P2_Stepper6-3
+Added Net: Name=StepperDIR6
+Added Pin To Net: NetName=StepperEN1 Pin=P2_Stepper1-5
+Added Pin To Net: NetName=StepperEN1 Pin=P5-21
+Added Net: Name=StepperEN1
+Added Pin To Net: NetName=StepperEN2 Pin=P2_Stepper2-5
+Added Pin To Net: NetName=StepperEN2 Pin=P5-24
+Added Net: Name=StepperEN2
+Added Pin To Net: NetName=StepperEN3 Pin=P2_Stepper3-5
+Added Pin To Net: NetName=StepperEN3 Pin=P5-23
+Added Net: Name=StepperEN3
+Added Pin To Net: NetName=StepperEN4 Pin=P2_Stepper4-5
+Added Pin To Net: NetName=StepperEN4 Pin=P5-26
+Added Net: Name=StepperEN4
+Added Pin To Net: NetName=StepperEN5 Pin=P2_Stepper5-5
+Added Pin To Net: NetName=StepperEN5 Pin=P5-25
+Added Net: Name=StepperEN5
+Added Pin To Net: NetName=StepperEN6 Pin=P2_Stepper6-5
+Added Pin To Net: NetName=StepperEN6 Pin=P6-7
+Added Net: Name=StepperEN6
+Added Pin To Net: NetName=StepperSTEP1 Pin=P2_Stepper1-4
+Added Pin To Net: NetName=StepperSTEP1 Pin=P5-16
+Added Net: Name=StepperSTEP1
+Added Pin To Net: NetName=StepperSTEP2 Pin=P2_Stepper2-4
+Added Pin To Net: NetName=StepperSTEP2 Pin=P5-18
+Added Net: Name=StepperSTEP2
+Added Pin To Net: NetName=StepperSTEP3 Pin=P2_Stepper3-4
+Added Pin To Net: NetName=StepperSTEP3 Pin=P5-17
+Added Net: Name=StepperSTEP3
+Added Pin To Net: NetName=StepperSTEP4 Pin=P2_Stepper4-4
+Added Pin To Net: NetName=StepperSTEP4 Pin=P5-20
+Added Net: Name=StepperSTEP4
+Added Pin To Net: NetName=StepperSTEP5 Pin=P2_Stepper5-4
+Added Pin To Net: NetName=StepperSTEP5 Pin=P4-7
+Added Pin To Net: NetName=StepperSTEP5 Pin=P5-19
+Added Net: Name=StepperSTEP5
+Added Pin To Net: NetName=StepperSTEP6 Pin=P2_Stepper6-4
+Added Pin To Net: NetName=StepperSTEP6 Pin=P4-9
+Added Pin To Net: NetName=StepperSTEP6 Pin=P5-22
+Added Net: Name=StepperSTEP6
+Added Pin To Net: NetName=TX1 Pin=P4-5
+Added Net: Name=TX1
+Added Pin To Net: NetName=VCC Pin=C11_Stepper1-1
+Added Pin To Net: NetName=VCC Pin=C11_Stepper2-1
+Added Pin To Net: NetName=VCC Pin=C11_Stepper3-1
+Added Pin To Net: NetName=VCC Pin=C11_Stepper4-1
+Added Pin To Net: NetName=VCC Pin=C11_Stepper5-1
+Added Pin To Net: NetName=VCC Pin=C11_Stepper6-1
+Added Pin To Net: NetName=VCC Pin=P2_Stepper1-2
+Added Pin To Net: NetName=VCC Pin=P2_Stepper2-2
+Added Pin To Net: NetName=VCC Pin=P2_Stepper3-2
+Added Pin To Net: NetName=VCC Pin=P2_Stepper4-2
+Added Pin To Net: NetName=VCC Pin=P2_Stepper5-2
+Added Pin To Net: NetName=VCC Pin=P2_Stepper6-2
+Added Net: Name=VCC
+Added Class: Name=Stepper1
+Added Class: Name=Stepper2
+Added Class: Name=Stepper3
+Added Class: Name=Stepper4
+Added Class: Name=Stepper5
+Added Class: Name=Stepper6
+Added Class: Name=U_Teensy3
+Added Class: Name=StepperCHOP[1..6]
+Added Class: Name=StepperDIR[1..6]
+Added Class: Name=StepperEN[1..6]
+Added Class: Name=StepperSTEP[6..1]
+Added Class: Name=StepperInterface
+Added Room: Name=Stepper1
+Added Room: Name=Stepper2
+Added Room: Name=Stepper3
+Added Room: Name=Stepper4
+Added Room: Name=Stepper5
+Added Room: Name=Stepper6
+Added Room: Name=U_Teensy3

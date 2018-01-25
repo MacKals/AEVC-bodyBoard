@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=VDD_U_StepperInterface2 Pin=P7-1
+Removed Pin From Net: NetName=GND_U_StepperInterface2 Pin=P7-2
+Removed Member From Class: ClassName=U_StepperInterface3 Member=C6
+Removed Member From Class: ClassName=U_StepperInterface2 Member=C9
+Removed Member From Class: ClassName=U_LMR14050_mod Member=C12
+Removed Member From Class: ClassName=Main Member=P7
+Removed Member From Class: ClassName=U_StepperInterface4 Member=P7
+Removed Member From Class: ClassName=Main Member=U1
+Change Component Designator: OldDesignator=C3 NewDesignator=C14_U_StepperInterface4
+Change Component Designator: OldDesignator=C4 NewDesignator=C14_U_StepperInterface2
+Change Component Designator: OldDesignator=C5 NewDesignator=C14_U_StepperInterface3
+Change Component Designator: OldDesignator=C14 NewDesignator=C14_U_StepperInterface6
+Change Component Designator: OldDesignator=C15 NewDesignator=C14_U_StepperInterface5
+Change Component Designator: OldDesignator=P1 NewDesignator=P12_U_StepperInterface4
+Change Component Designator: OldDesignator=P2 NewDesignator=P12_U_StepperInterface2
+Change Component Designator: OldDesignator=P3 NewDesignator=P12_U_StepperInterface3
+Change Component Designator: OldDesignator=P4 NewDesignator=P14_U_StepperInterface4
+Change Component Designator: OldDesignator=P5 NewDesignator=P14_U_StepperInterface2
+Change Component Designator: OldDesignator=P6 NewDesignator=P14_U_StepperInterface3
+Change Component Designator: OldDesignator=P8 NewDesignator=P16_Sense2Pin2
+Change Component Designator: OldDesignator=P9 NewDesignator=P22_Drive2Pin2
+Change Component Designator: OldDesignator=P10 NewDesignator=P22_Drive2Pin1
+Change Component Designator: OldDesignator=P11 NewDesignator=P16_Sense2Pin3
+Change Component Designator: OldDesignator=P12 NewDesignator=P12_U_StepperInterface6
+Change Component Designator: OldDesignator=P13 NewDesignator=P16_Sense2Pin4
+Change Component Designator: OldDesignator=P14 NewDesignator=P14_U_StepperInterface6
+Change Component Designator: OldDesignator=P15 NewDesignator=P16_Sense2Pin5
+Change Component Designator: OldDesignator=P16 NewDesignator=P16_Sense2Pin6
+Change Component Designator: OldDesignator=P17 NewDesignator=P16_Sense2Pin1
+Change Component Designator: OldDesignator=P18 NewDesignator=P12_U_StepperInterface5
+Change Component Designator: OldDesignator=P19 NewDesignator=P25_Sense3Pin1
+Change Component Designator: OldDesignator=P20 NewDesignator=P14_U_StepperInterface5
+Change Component Designator: OldDesignator=P21 NewDesignator=P25_Sense3Pin2
+Change Component Designator: OldDesignator=P22 NewDesignator=P22_Drive2Pin4
+Change Component Designator: OldDesignator=P23 NewDesignator=P22_Drive2Pin3
+Change Component Designator: OldDesignator=P24 NewDesignator=P25_Sense3Pin3
+Change Component Designator: OldDesignator=P25 NewDesignator=P25_Sense3Pin4
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q3_Drive2Pin2
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q3_Drive2Pin1
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q3_Drive2Pin4
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q3_Drive2Pin3
+Added Component: Designator=J1(CXKF-KF129C-2_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.nb-kaifeng.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.nb-kaifeng.com/upload/editor/ext_pdf/201208170644598657.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "5000 MOhm / 1000 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi KaiFeng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pole"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Terminal Block, Pitch 5 mm, 1 x 2 Position, Height 19.2 mm, Tail Length 3.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "KF129C-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "KF129C-02P-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "Single Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "20 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "300 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40 to 105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "AC 1500 V / 1 Min"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_U_StepperInterface2 Pin=J1-1
+Added Pin To Net: NetName=VDD_U_StepperInterface2 Pin=J1-2
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetP4_Drive2Pin1_1 New Net Name=NetP22_Drive2Pin1_1
+Change Net Name : Old Net Name=NetP4_Drive2Pin2_1 New Net Name=NetP22_Drive2Pin2_1
+Change Net Name : Old Net Name=NetP4_Drive2Pin3_1 New Net Name=NetP22_Drive2Pin3_1
+Change Net Name : Old Net Name=NetP4_Drive2Pin4_1 New Net Name=NetP22_Drive2Pin4_1
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR4_2
+Added Member To Class: ClassName=U_LMR14050_mod Member=Component C10 EEEFK1V680XP
+Added Member To Class: ClassName=U_StepperInterface2 Member=Component C14_U_StepperInterface2 (C14) EEEFK1V680XP
+Added Member To Class: ClassName=U_StepperInterface3 Member=Component C14_U_StepperInterface3 (C14) EEEFK1V680XP
+Added Member To Class: ClassName=Main Member=Component J1 KF129C-02P-14
+Added Member To Class: ClassName=U_StepperInterface4 Member=Component P12_U_StepperInterface4 (P12) Header 9
+Added Member To Class: ClassName=Main Member=Component U2 Teensy3p6
+Added Room: Name=Main
+Added Room: Name=Sense2Pin1
+Added Room: Name=Sense2Pin2
+Added Room: Name=Sense2Pin3
+Added Room: Name=Sense2Pin4
+Added Room: Name=Sense2Pin5
+Added Room: Name=Sense2Pin6
+Added Room: Name=Sense3Pin1
+Added Room: Name=Sense3Pin2
+Added Room: Name=Sense3Pin3
+Added Room: Name=Sense3Pin4

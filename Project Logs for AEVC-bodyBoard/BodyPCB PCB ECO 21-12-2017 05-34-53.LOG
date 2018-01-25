@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=2SIGNAL4 Pin=U1-36
+Removed Pin From Net: NetName=2SIGNAL3 Pin=U1-37
+Removed Pin From Net: NetName=2SIGNAL1 Pin=U1-39
+Removed Pin From Net: NetName=2SIGNAL2 Pin=U1-69
+Added Pin To Net: NetName=2SIGNAL1 Pin=P5_Sense2Pin1-1
+Added Pin To Net: NetName=2SIGNAL2 Pin=P5_Sense2Pin2-1
+Added Pin To Net: NetName=2SIGNAL3 Pin=P5_Sense2Pin3-1
+Added Pin To Net: NetName=2SIGNAL4 Pin=P5_Sense2Pin4-1
+Added Pin To Net: NetName=2SIGNAL5 Pin=P5_Sense2Pin5-1
+Added Pin To Net: NetName=2SIGNAL6 Pin=P5_Sense2Pin6-1
+Added Pin To Net: NetName=2ACTIVE1 Pin=Q1_Drive2Pin1-2
+Added Pin To Net: NetName=2ACTIVE2 Pin=Q1_Drive2Pin2-2
+Added Pin To Net: NetName=2ACTIVE3 Pin=Q1_Drive2Pin3-2
+Added Pin To Net: NetName=2ACTIVE4 Pin=Q1_Drive2Pin4-2
+Added Pin To Net: NetName=3SIGNAL1 Pin=P6_Sense3Pin1-1
+Added Pin To Net: NetName=3SIGNAL1 Pin=U1-39
+Added Net: Name=3SIGNAL1
+Added Pin To Net: NetName=3SIGNAL2 Pin=P6_Sense3Pin2-1
+Added Pin To Net: NetName=3SIGNAL2 Pin=U1-69
+Added Net: Name=3SIGNAL2
+Added Pin To Net: NetName=3SIGNAL3 Pin=P6_Sense3Pin3-1
+Added Pin To Net: NetName=3SIGNAL3 Pin=U1-37
+Added Net: Name=3SIGNAL3
+Added Pin To Net: NetName=3SIGNAL4 Pin=P6_Sense3Pin4-1
+Added Pin To Net: NetName=3SIGNAL4 Pin=U1-36
+Added Net: Name=3SIGNAL4

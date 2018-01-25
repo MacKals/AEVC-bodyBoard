@@ -1,0 +1,45 @@
+Removed Member From Class: ClassName=U_StepperInterface6 Member=C11
+Change Component Designator: OldDesignator=C1 NewDesignator=C10_U_StepperInterface4
+Change Component Designator: OldDesignator=C2 NewDesignator=C10_U_StepperInterface2
+Change Component Designator: OldDesignator=C3 NewDesignator=C10_U_StepperInterface3
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_U_StepperInterface6
+Change Component Designator: OldDesignator=C15 NewDesignator=C10_U_StepperInterface5
+Change Component Designator: OldDesignator=P1 NewDesignator=P11_U_StepperInterface4
+Change Component Designator: OldDesignator=P2 NewDesignator=P11_U_StepperInterface2
+Change Component Designator: OldDesignator=P3 NewDesignator=P11_U_StepperInterface3
+Change Component Designator: OldDesignator=P4 NewDesignator=P7_U_StepperInterface4
+Change Component Designator: OldDesignator=P5 NewDesignator=P7_U_StepperInterface2
+Change Component Designator: OldDesignator=P6 NewDesignator=P7_U_StepperInterface3
+Change Component Designator: OldDesignator=P7 NewDesignator=P7_U_StepperInterface6
+Change Component Designator: OldDesignator=P8 NewDesignator=P22_Sense3Pin1
+Change Component Designator: OldDesignator=P9 NewDesignator=P19_Drive2Pin1
+Change Component Designator: OldDesignator=P10 NewDesignator=P24_Sense2Pin1
+Change Component Designator: OldDesignator=P11 NewDesignator=P11_U_StepperInterface6
+Change Component Designator: OldDesignator=P12 NewDesignator=P24_Sense2Pin3
+Change Component Designator: OldDesignator=P13 NewDesignator=P22_Sense3Pin2
+Change Component Designator: OldDesignator=P14 NewDesignator=P19_Drive2Pin2
+Change Component Designator: OldDesignator=P15 NewDesignator=P24_Sense2Pin2
+Change Component Designator: OldDesignator=P16 NewDesignator=P24_Sense2Pin5
+Change Component Designator: OldDesignator=P17 NewDesignator=P7_U_StepperInterface5
+Change Component Designator: OldDesignator=P18 NewDesignator=P22_Sense3Pin3
+Change Component Designator: OldDesignator=P19 NewDesignator=P19_Drive2Pin4
+Change Component Designator: OldDesignator=P20 NewDesignator=P24_Sense2Pin4
+Change Component Designator: OldDesignator=P21 NewDesignator=P11_U_StepperInterface5
+Change Component Designator: OldDesignator=P22 NewDesignator=P22_Sense3Pin4
+Change Component Designator: OldDesignator=P23 NewDesignator=P19_Drive2Pin3
+Change Component Designator: OldDesignator=P24 NewDesignator=P24_Sense2Pin6
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q3_Drive2Pin1
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q3_Drive2Pin2
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q3_Drive2Pin4
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q3_Drive2Pin3
+Added Pin To Net: NetName=POS3V3 Pin=P7_U_StepperInterface2-7
+Added Pin To Net: NetName=POS3V3 Pin=P7_U_StepperInterface3-7
+Added Pin To Net: NetName=POS3V3 Pin=P7_U_StepperInterface4-7
+Added Pin To Net: NetName=POS3V3 Pin=P7_U_StepperInterface5-7
+Added Pin To Net: NetName=POS3V3 Pin=P7_U_StepperInterface6-7
+Change Net Name : Old Net Name=NetP18_Drive2Pin1_1 New Net Name=NetP19_Drive2Pin1_1
+Change Net Name : Old Net Name=NetP18_Drive2Pin2_1 New Net Name=NetP19_Drive2Pin2_1
+Change Net Name : Old Net Name=NetP18_Drive2Pin3_1 New Net Name=NetP19_Drive2Pin3_1
+Change Net Name : Old Net Name=NetP18_Drive2Pin4_1 New Net Name=NetP19_Drive2Pin4_1
+Change Net Name : Old Net Name=POS3V3 New Net Name=COMM_U_StepperInterface2
+Added Member To Class: ClassName=U_StepperInterface6 Member=Component C10_U_StepperInterface6 (C10) EEEFK1V680XP

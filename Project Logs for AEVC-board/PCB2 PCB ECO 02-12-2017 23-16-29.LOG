@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=StepperDIR1 Pin=P5-8
+Removed Pin From Net: NetName=StepperDIR2 Pin=P5-10
+Removed Pin From Net: NetName=StepperDIR3 Pin=P5-12
+Removed Pin From Net: NetName=StepperDIR4 Pin=P5-14
+Removed Pin From Net: NetName=StepperSTEP1 Pin=P5-16
+Removed Pin From Net: NetName=StepperSTEP3 Pin=P5-17
+Removed Pin From Net: NetName=StepperSTEP2 Pin=P5-18
+Removed Pin From Net: NetName=StepperSTEP5 Pin=P5-19
+Removed Pin From Net: NetName=StepperSTEP4 Pin=P5-20
+Removed Pin From Net: NetName=StepperSTEP6 Pin=P5-22
+Added Pin To Net: NetName=StepperSTEP1 Pin=P5-8
+Added Pin To Net: NetName=StepperSTEP2 Pin=P5-10
+Added Pin To Net: NetName=StepperSTEP3 Pin=P5-12
+Added Pin To Net: NetName=StepperSTEP4 Pin=P5-14
+Added Pin To Net: NetName=StepperDIR1 Pin=P5-16
+Added Pin To Net: NetName=StepperDIR3 Pin=P5-17
+Added Pin To Net: NetName=StepperDIR2 Pin=P5-18
+Added Pin To Net: NetName=StepperDIR5 Pin=P5-19
+Added Pin To Net: NetName=StepperDIR4 Pin=P5-20
+Added Pin To Net: NetName=StepperDIR6 Pin=P5-22
+Change Class Name : Old Net Name=StepperDIR[1..6] New Net Name=StepperDIR[6..1]
+Change Class Name : Old Net Name=StepperSTEP[6..1] New Net Name=StepperSTEP[1..6]

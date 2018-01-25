@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=D1-2
+Change Component Comment : Designator=D1 Old Comment=D Schottky New Comment=MBRD835LG
+Change Component Designator: OldDesignator=C1 NewDesignator=C10_U_StepperInterface4
+Change Component Designator: OldDesignator=C2 NewDesignator=C10_U_StepperInterface2
+Change Component Designator: OldDesignator=C3 NewDesignator=C10_U_StepperInterface3
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_U_StepperInterface6
+Change Component Designator: OldDesignator=C15 NewDesignator=C10_U_StepperInterface5
+Change Component Designator: OldDesignator=P1 NewDesignator=P11_U_StepperInterface4
+Change Component Designator: OldDesignator=P2 NewDesignator=P11_U_StepperInterface2
+Change Component Designator: OldDesignator=P3 NewDesignator=P11_U_StepperInterface3
+Change Component Designator: OldDesignator=P4 NewDesignator=P7_U_StepperInterface4
+Change Component Designator: OldDesignator=P5 NewDesignator=P7_U_StepperInterface2
+Change Component Designator: OldDesignator=P6 NewDesignator=P7_U_StepperInterface3
+Change Component Designator: OldDesignator=P7 NewDesignator=P7_U_StepperInterface6
+Change Component Designator: OldDesignator=P8 NewDesignator=P22_Sense3Pin1
+Change Component Designator: OldDesignator=P9 NewDesignator=P23_Drive2Pin1
+Change Component Designator: OldDesignator=P10 NewDesignator=P24_Sense2Pin1
+Change Component Designator: OldDesignator=P11 NewDesignator=P11_U_StepperInterface6
+Change Component Designator: OldDesignator=P12 NewDesignator=P24_Sense2Pin3
+Change Component Designator: OldDesignator=P13 NewDesignator=P22_Sense3Pin2
+Change Component Designator: OldDesignator=P14 NewDesignator=P23_Drive2Pin2
+Change Component Designator: OldDesignator=P15 NewDesignator=P24_Sense2Pin2
+Change Component Designator: OldDesignator=P16 NewDesignator=P24_Sense2Pin5
+Change Component Designator: OldDesignator=P17 NewDesignator=P22_Sense3Pin3
+Change Component Designator: OldDesignator=P18 NewDesignator=P23_Drive2Pin3
+Change Component Designator: OldDesignator=P19 NewDesignator=P7_U_StepperInterface5
+Change Component Designator: OldDesignator=P20 NewDesignator=P24_Sense2Pin4
+Change Component Designator: OldDesignator=P21 NewDesignator=P11_U_StepperInterface5
+Change Component Designator: OldDesignator=P22 NewDesignator=P22_Sense3Pin4
+Change Component Designator: OldDesignator=P23 NewDesignator=P23_Drive2Pin4
+Change Component Designator: OldDesignator=P24 NewDesignator=P24_Sense2Pin6
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q4_Drive2Pin1
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q4_Drive2Pin2
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q4_Drive2Pin3
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q4_Drive2Pin4
+Change component parameters: Designator = "D1"; Footprint = "ONSC-DPAK-3-369C-01_V"; UniqueID = "\EJITBSKT\TRRNONML\JGEBHOIH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MBRD835L-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/369C.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IFSM Max (A)"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Flange Mount, Body 6.54 x 6.095 mm, Pitch 2.29 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DPAK-3-369C-01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. E, 02/2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "MBRD835LG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"

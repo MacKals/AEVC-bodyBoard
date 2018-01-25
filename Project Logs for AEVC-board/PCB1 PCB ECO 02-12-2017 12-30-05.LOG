@@ -1,0 +1,203 @@
+Added Component: Designator=P2_U_StepperInterface1(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2_U_StepperInterface2(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2_U_StepperInterface3(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2_U_StepperInterface4(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2_U_StepperInterface5(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(MHDR2X13)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(MHDR2X13)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P2_U_StepperInterface1-1
+Added Pin To Net: NetName=GND Pin=P2_U_StepperInterface2-1
+Added Pin To Net: NetName=GND Pin=P2_U_StepperInterface3-1
+Added Pin To Net: NetName=GND Pin=P2_U_StepperInterface4-1
+Added Pin To Net: NetName=GND Pin=P2_U_StepperInterface5-1
+Added Net: Name=GND
+Added Net: Name=NetJ1_U_StepperInterface1_3
+Added Net: Name=NetJ1_U_StepperInterface1_4
+Added Net: Name=NetJ1_U_StepperInterface1_5
+Added Net: Name=NetJ1_U_StepperInterface1_6
+Added Pin To Net: NetName=NetJ1_U_StepperInterface1_8 Pin=P2_U_StepperInterface1-3
+Added Net: Name=NetJ1_U_StepperInterface1_8
+Added Pin To Net: NetName=NetJ1_U_StepperInterface1_9 Pin=P2_U_StepperInterface1-2
+Added Net: Name=NetJ1_U_StepperInterface1_9
+Added Net: Name=NetJ1_U_StepperInterface2_3
+Added Net: Name=NetJ1_U_StepperInterface2_4
+Added Net: Name=NetJ1_U_StepperInterface2_5
+Added Net: Name=NetJ1_U_StepperInterface2_6
+Added Pin To Net: NetName=NetJ1_U_StepperInterface2_8 Pin=P2_U_StepperInterface2-3
+Added Net: Name=NetJ1_U_StepperInterface2_8
+Added Pin To Net: NetName=NetJ1_U_StepperInterface2_9 Pin=P2_U_StepperInterface2-2
+Added Net: Name=NetJ1_U_StepperInterface2_9
+Added Net: Name=NetJ1_U_StepperInterface3_3
+Added Net: Name=NetJ1_U_StepperInterface3_4
+Added Net: Name=NetJ1_U_StepperInterface3_5
+Added Net: Name=NetJ1_U_StepperInterface3_6
+Added Pin To Net: NetName=NetJ1_U_StepperInterface3_8 Pin=P2_U_StepperInterface3-3
+Added Net: Name=NetJ1_U_StepperInterface3_8
+Added Pin To Net: NetName=NetJ1_U_StepperInterface3_9 Pin=P2_U_StepperInterface3-2
+Added Net: Name=NetJ1_U_StepperInterface3_9
+Added Net: Name=NetJ1_U_StepperInterface4_3
+Added Net: Name=NetJ1_U_StepperInterface4_4
+Added Net: Name=NetJ1_U_StepperInterface4_5
+Added Net: Name=NetJ1_U_StepperInterface4_6
+Added Pin To Net: NetName=NetJ1_U_StepperInterface4_8 Pin=P2_U_StepperInterface4-3
+Added Net: Name=NetJ1_U_StepperInterface4_8
+Added Pin To Net: NetName=NetJ1_U_StepperInterface4_9 Pin=P2_U_StepperInterface4-2
+Added Net: Name=NetJ1_U_StepperInterface4_9
+Added Net: Name=NetJ1_U_StepperInterface5_3
+Added Net: Name=NetJ1_U_StepperInterface5_4
+Added Net: Name=NetJ1_U_StepperInterface5_5
+Added Net: Name=NetJ1_U_StepperInterface5_6
+Added Pin To Net: NetName=NetJ1_U_StepperInterface5_8 Pin=P2_U_StepperInterface5-3
+Added Net: Name=NetJ1_U_StepperInterface5_8
+Added Pin To Net: NetName=NetJ1_U_StepperInterface5_9 Pin=P2_U_StepperInterface5-2
+Added Net: Name=NetJ1_U_StepperInterface5_9
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetP3_5 Pin=P3-5
+Added Net: Name=NetP3_5
+Added Pin To Net: NetName=NetP3_7 Pin=P3-7
+Added Net: Name=NetP3_7
+Added Pin To Net: NetName=NetP3_9 Pin=P3-9
+Added Net: Name=NetP3_9
+Added Pin To Net: NetName=NetP3_11 Pin=P3-11
+Added Net: Name=NetP3_11
+Added Pin To Net: NetName=NetP3_13 Pin=P3-13
+Added Net: Name=NetP3_13
+Added Pin To Net: NetName=NetP3_14 Pin=P3-14
+Added Net: Name=NetP3_14
+Added Pin To Net: NetName=NetP3_15 Pin=P3-15
+Added Net: Name=NetP3_15
+Added Pin To Net: NetName=NetP3_16 Pin=P3-16
+Added Net: Name=NetP3_16
+Added Pin To Net: NetName=NetP3_17 Pin=P3-17
+Added Net: Name=NetP3_17
+Added Pin To Net: NetName=NetP3_18 Pin=P3-18
+Added Net: Name=NetP3_18
+Added Pin To Net: NetName=NetP3_19 Pin=P3-19
+Added Net: Name=NetP3_19
+Added Pin To Net: NetName=NetP3_20 Pin=P3-20
+Added Net: Name=NetP3_20
+Added Pin To Net: NetName=NetP3_21 Pin=P3-21
+Added Net: Name=NetP3_21
+Added Pin To Net: NetName=NetP3_22 Pin=P3-22
+Added Net: Name=NetP3_22
+Added Pin To Net: NetName=NetP3_23 Pin=P3-23
+Added Net: Name=NetP3_23
+Added Pin To Net: NetName=NetP3_24 Pin=P3-24
+Added Net: Name=NetP3_24
+Added Pin To Net: NetName=NetP3_25 Pin=P3-25
+Added Net: Name=NetP3_25
+Added Pin To Net: NetName=NetP3_26 Pin=P3-26
+Added Net: Name=NetP3_26
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Net: Name=NetP4_3
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Net: Name=NetP4_4
+Added Pin To Net: NetName=NetP4_6 Pin=P4-6
+Added Net: Name=NetP4_6
+Added Pin To Net: NetName=NetP4_7 Pin=P4-7
+Added Net: Name=NetP4_7
+Added Pin To Net: NetName=NetP4_8 Pin=P4-8
+Added Net: Name=NetP4_8
+Added Pin To Net: NetName=NetP4_9 Pin=P4-9
+Added Net: Name=NetP4_9
+Added Pin To Net: NetName=NetP4_10 Pin=P4-10
+Added Net: Name=NetP4_10
+Added Pin To Net: NetName=NetP4_11 Pin=P4-11
+Added Net: Name=NetP4_11
+Added Pin To Net: NetName=NetP4_12 Pin=P4-12
+Added Net: Name=NetP4_12
+Added Pin To Net: NetName=NetP4_13 Pin=P4-13
+Added Net: Name=NetP4_13
+Added Pin To Net: NetName=NetP4_14 Pin=P4-14
+Added Net: Name=NetP4_14
+Added Pin To Net: NetName=NetP4_15 Pin=P4-15
+Added Net: Name=NetP4_15
+Added Pin To Net: NetName=NetP4_16 Pin=P4-16
+Added Net: Name=NetP4_16
+Added Pin To Net: NetName=NetP4_17 Pin=P4-17
+Added Net: Name=NetP4_17
+Added Pin To Net: NetName=NetP4_18 Pin=P4-18
+Added Net: Name=NetP4_18
+Added Pin To Net: NetName=NetP4_19 Pin=P4-19
+Added Net: Name=NetP4_19
+Added Pin To Net: NetName=NetP4_20 Pin=P4-20
+Added Net: Name=NetP4_20
+Added Pin To Net: NetName=NetP4_21 Pin=P4-21
+Added Net: Name=NetP4_21
+Added Pin To Net: NetName=NetP4_22 Pin=P4-22
+Added Net: Name=NetP4_22
+Added Pin To Net: NetName=NetP4_23 Pin=P4-23
+Added Net: Name=NetP4_23
+Added Pin To Net: NetName=NetP4_24 Pin=P4-24
+Added Net: Name=NetP4_24
+Added Pin To Net: NetName=NetP4_25 Pin=P4-25
+Added Net: Name=NetP4_25
+Added Pin To Net: NetName=NetP4_26 Pin=P4-26
+Added Net: Name=NetP4_26
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Net: Name=NetP5_1
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Net: Name=NetP5_2
+Added Pin To Net: NetName=NetP5_3 Pin=P5-3
+Added Net: Name=NetP5_3
+Added Pin To Net: NetName=NetP5_4 Pin=P5-4
+Added Net: Name=NetP5_4
+Added Pin To Net: NetName=NetP5_5 Pin=P5-5
+Added Net: Name=NetP5_5
+Added Pin To Net: NetName=NetP5_6 Pin=P5-6
+Added Net: Name=NetP5_6
+Added Pin To Net: NetName=NetP5_7 Pin=P5-7
+Added Net: Name=NetP5_7
+Added Net: Name=POS5V
+Added Net: Name=VCC
+Added Class: Name=U_StepperInterface1
+Added Class: Name=U_StepperInterface2
+Added Class: Name=U_StepperInterface3
+Added Class: Name=U_StepperInterface4
+Added Class: Name=U_StepperInterface5
+Added Class: Name=U_Teensy3
+Added Class: Name=StepperInterface
+Added Room: Name=U_StepperInterface1
+Added Room: Name=U_StepperInterface2
+Added Room: Name=U_StepperInterface3
+Added Room: Name=U_StepperInterface4
+Added Room: Name=U_StepperInterface5
+Added Room: Name=U_Teensy3

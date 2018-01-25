@@ -1,0 +1,52 @@
+Removed Member From Class: ClassName=U_StepperInterface2 Member=C4
+Removed Member From Class: ClassName=U_LMR14050_mod Member=C9
+Change Component Designator: OldDesignator=C1 NewDesignator=C14_U_StepperInterface4
+Change Component Designator: OldDesignator=C2 NewDesignator=C14_U_StepperInterface2
+Change Component Designator: OldDesignator=C3 NewDesignator=C14_U_StepperInterface3
+Change Component Designator: OldDesignator=C4 NewDesignator=C10
+Change Component Designator: OldDesignator=C5 NewDesignator=C7
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Change Component Designator: OldDesignator=C8 NewDesignator=C1
+Change Component Designator: OldDesignator=C9 NewDesignator=C6
+Change Component Designator: OldDesignator=C10 NewDesignator=C2
+Change Component Designator: OldDesignator=C11 NewDesignator=C14_U_StepperInterface6
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=C13 NewDesignator=C14_U_StepperInterface5
+Change Component Designator: OldDesignator=C14 NewDesignator=C12
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change Component Designator: OldDesignator=P1 NewDesignator=P12_U_StepperInterface4
+Change Component Designator: OldDesignator=P2 NewDesignator=P12_U_StepperInterface2
+Change Component Designator: OldDesignator=P3 NewDesignator=P12_U_StepperInterface3
+Change Component Designator: OldDesignator=P4 NewDesignator=P14_U_StepperInterface4
+Change Component Designator: OldDesignator=P5 NewDesignator=P14_U_StepperInterface2
+Change Component Designator: OldDesignator=P6 NewDesignator=P14_U_StepperInterface3
+Change Component Designator: OldDesignator=P7 NewDesignator=P25_Sense3Pin1
+Change Component Designator: OldDesignator=P8 NewDesignator=P22_Drive2Pin1
+Change Component Designator: OldDesignator=P9 NewDesignator=P16_Sense2Pin1
+Change Component Designator: OldDesignator=P10 NewDesignator=P16_Sense2Pin3
+Change Component Designator: OldDesignator=P11 NewDesignator=P25_Sense3Pin2
+Change Component Designator: OldDesignator=P12 NewDesignator=P22_Drive2Pin2
+Change Component Designator: OldDesignator=P13 NewDesignator=P12_U_StepperInterface6
+Change Component Designator: OldDesignator=P14 NewDesignator=P16_Sense2Pin2
+Change Component Designator: OldDesignator=P15 NewDesignator=P16_Sense2Pin5
+Change Component Designator: OldDesignator=P16 NewDesignator=P14_U_StepperInterface6
+Change Component Designator: OldDesignator=P17 NewDesignator=P25_Sense3Pin3
+Change Component Designator: OldDesignator=P18 NewDesignator=P22_Drive2Pin4
+Change Component Designator: OldDesignator=P19 NewDesignator=P16_Sense2Pin4
+Change Component Designator: OldDesignator=P20 NewDesignator=P25_Sense3Pin4
+Change Component Designator: OldDesignator=P21 NewDesignator=P22_Drive2Pin3
+Change Component Designator: OldDesignator=P22 NewDesignator=P16_Sense2Pin6
+Change Component Designator: OldDesignator=P23 NewDesignator=P12_U_StepperInterface5
+Change Component Designator: OldDesignator=P24 NewDesignator=P14_U_StepperInterface5
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q3_Drive2Pin1
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q3_Drive2Pin2
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q3_Drive2Pin4
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q3_Drive2Pin3
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Added Member To Class: ClassName=U_LMR14050_mod Member=Component C8 Cap
+Added Member To Class: ClassName=U_StepperInterface2 Member=Component C14_U_StepperInterface2 (C14) EEEFK1V680XP

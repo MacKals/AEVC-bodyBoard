@@ -1,0 +1,104 @@
+Protel Design System Design Rule Check
+PCB File : Y:\Altium\AEVC-bodyBoard\BodyPCB.PcbDoc
+Date     : 14/01/2018
+Time     : 14:44:52
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('GND_plane')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=60mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room Drive2Pin1 (Bounding Region = (4225mil, 3675mil, 4450mil, 4275mil) (InComponentClass('Drive2Pin1'))
+Rule Violations :0
+
+Processing Rule : Room U_StepperInterface4 (Bounding Region = (2775mil, 1900mil, 3275mil, 2850mil) (InComponentClass('U_StepperInterface4'))
+   Violation between Room Definition: Between Room U_StepperInterface4 (Bounding Region = (2775mil, 1900mil, 3275mil, 2850mil) (InComponentClass('U_StepperInterface4')) And Small Component P5-Header 2 (3100.394mil,1162.992mil) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Room U_StepperInterface6 (Bounding Region = (4275mil, 2058.5mil, 4775mil, 3008.5mil) (InComponentClass('U_StepperInterface6'))
+Rule Violations :0
+
+Processing Rule : Room U_StepperInterface5 (Bounding Region = (4820mil, 2047mil, 5320mil, 3022mil) (InComponentClass('U_StepperInterface5'))
+Rule Violations :0
+
+Processing Rule : Room U_StepperInterface3 (Bounding Region = (2775mil, 3950mil, 3275mil, 4900mil) (InComponentClass('U_StepperInterface3'))
+Rule Violations :0
+
+Processing Rule : Room Drive2Pin4 (Bounding Region = (4975mil, 3675mil, 5200mil, 4275mil) (InComponentClass('Drive2Pin4'))
+Rule Violations :0
+
+Processing Rule : Room Drive2Pin3 (Bounding Region = (4725mil, 3675mil, 4950mil, 4275mil) (InComponentClass('Drive2Pin3'))
+Rule Violations :0
+
+Processing Rule : Room Drive2Pin2 (Bounding Region = (4475mil, 3675mil, 4700mil, 4275mil) (InComponentClass('Drive2Pin2'))
+Rule Violations :0
+
+Processing Rule : Room U_StepperInterface2 (Bounding Region = (2775mil, 2925mil, 3275mil, 3875mil) (InComponentClass('U_StepperInterface2'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (7.749mil < 10mil) Between Pad C11-1(4765mil,1640.472mil) on Top Layer And Pad C11-2(4765mil,1699.528mil) on Top Layer [Top Solder] Mask Sliver [7.749mil]Waived by Morten Kals at 23/12/2017 22:03:480805 pad separation, still exceeding JLCPCB requirenment
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (7.749mil < 10mil) Between Pad C12-1(4765mil,1924.528mil) on Top Layer And Pad C12-2(4765mil,1865.472mil) on Top Layer [Top Solder] Mask Sliver [7.749mil]Waived by Morten Kals at 23/12/2017 22:03:480805 pad separation, still exceeding JLCPCB requirenment
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (7.749mil < 10mil) Between Pad C13-1(4890mil,1924.528mil) on Top Layer And Pad C13-2(4890mil,1865.472mil) on Top Layer [Top Solder] Mask Sliver [7.749mil]Waived by Morten Kals at 23/12/2017 22:03:480805 pad separation, still exceeding JLCPCB requirenment
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (7.749mil < 10mil) Between Pad C5-1(3540mil,1770mil) on Top Layer And Pad C5-2(3540mil,1710.944mil) on Top Layer [Top Solder] Mask Sliver [7.749mil]Waived by Morten Kals at 14/01/2018 02:06:38Small package
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (7.749mil < 10mil) Between Pad C6-1(3640mil,1770mil) on Top Layer And Pad C6-2(3640mil,1710.944mil) on Top Layer [Top Solder] Mask Sliver [7.749mil]Waived by Morten Kals at 14/01/2018 02:07:53Small package
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (7.749mil < 10mil) Between Pad C7-1(3740mil,1770mil) on Top Layer And Pad C7-2(3740mil,1710.944mil) on Top Layer [Top Solder] Mask Sliver [7.749mil]Waived by Morten Kals at 14/01/2018 02:07:04Small package
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (7.749mil < 10mil) Between Pad C8-1(4035.472mil,1495mil) on Top Layer And Pad C8-2(4094.528mil,1495mil) on Top Layer [Top Solder] Mask Sliver [7.749mil]Waived by Morten Kals at 23/12/2017 22:03:480805 pad separation, still exceeding JLCPCB requirenment
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (7.749mil < 10mil) Between Pad C9-1(4124.056mil,1870mil) on Top Layer And Pad C9-2(4065mil,1870mil) on Top Layer [Top Solder] Mask Sliver [7.749mil]Waived by Morten Kals at 23/12/2017 22:03:480805 pad separation, still exceeding JLCPCB requirenment
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (5.386mil < 10mil) Between Pad U1-2(3060.472mil,1375mil) on Top Layer And Pad U1-3(3105.354mil,1375mil) on Top Layer [Top Solder] Mask Sliver [5.386mil]Waived by Morten Kals at 14/01/2018 14:43:44
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (5.386mil < 10mil) Between Pad U1-4(3195.118mil,1375mil) on Top Layer And Pad U1-5(3240mil,1375mil) on Top Layer [Top Solder] Mask Sliver [5.386mil]Waived by Morten Kals at 14/01/2018 14:43:51
+Waived Violations :10
+
+Waived Violations Of Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (8.563mil < 10mil) Between Pad L1-1(4338.031mil,1770mil) on Top Layer And Track (4329.016mil,1635mil)(4329.016mil,1690mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.563mil]Waived by Morten Kals at 14/01/2018 14:44:20
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (8.563mil < 10mil) Between Pad L1-1(4338.031mil,1770mil) on Top Layer And Track (4329.016mil,1850mil)(4329.016mil,1905mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.563mil]Waived by Morten Kals at 14/01/2018 14:44:20
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (8.563mil < 10mil) Between Pad L1-2(4590mil,1770mil) on Top Layer And Track (4599.016mil,1635mil)(4599.016mil,1690mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.563mil]Waived by Morten Kals at 14/01/2018 14:44:20
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (8.563mil < 10mil) Between Pad L1-2(4590mil,1770mil) on Top Layer And Track (4599.016mil,1850mil)(4599.016mil,1905mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.563mil]Waived by Morten Kals at 14/01/2018 14:44:20
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (6.811mil < 10mil) Between Pad U1-1(3150.236mil,1623.032mil) on Top Layer And Track (3040mil,1473.425mil)(3040mil,1485.236mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.811mil]Waived by Morten Kals at 14/01/2018 14:44:20
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (7.45mil < 10mil) Between Pad U1-1(3150.236mil,1623.032mil) on Top Layer And Track (3260.472mil,1473.425mil)(3260.472mil,1485.236mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.45mil]Waived by Morten Kals at 14/01/2018 14:44:20
+Waived Violations :6
+
+
+Violations Detected : 1
+Waived Violations : 16
+Time Elapsed        : 00:00:02

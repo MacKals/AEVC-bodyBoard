@@ -1,0 +1,52 @@
+Removed Member From Class: ClassName=U_LMR14050_mod Member=C1
+Removed Member From Class: ClassName=U_StepperInterface2 Member=C10
+Removed Member From Class: ClassName=U_StepperInterface6 Member=C12
+Removed Member From Class: ClassName=U_POS3V3 Member=C13
+Change Component Designator: OldDesignator=C1 NewDesignator=C11_U_StepperInterface4
+Change Component Designator: OldDesignator=C2 NewDesignator=C11_U_StepperInterface2
+Change Component Designator: OldDesignator=C3 NewDesignator=C11_U_StepperInterface3
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_U_StepperInterface6
+Change Component Designator: OldDesignator=C13 NewDesignator=C11_U_StepperInterface5
+Change Component Designator: OldDesignator=P1 NewDesignator=P13_U_StepperInterface4
+Change Component Designator: OldDesignator=P2 NewDesignator=P13_U_StepperInterface2
+Change Component Designator: OldDesignator=P3 NewDesignator=P13_U_StepperInterface3
+Change Component Designator: OldDesignator=P4 NewDesignator=P16_U_StepperInterface4
+Change Component Designator: OldDesignator=P5 NewDesignator=P16_U_StepperInterface2
+Change Component Designator: OldDesignator=P6 NewDesignator=P16_U_StepperInterface3
+Change Component Designator: OldDesignator=P7 NewDesignator=P20_Sense3Pin1
+Change Component Designator: OldDesignator=P8 NewDesignator=P18_Drive2Pin1
+Change Component Designator: OldDesignator=P9 NewDesignator=P22_Sense2Pin1
+Change Component Designator: OldDesignator=P10 NewDesignator=P22_Sense2Pin3
+Change Component Designator: OldDesignator=P11 NewDesignator=P20_Sense3Pin2
+Change Component Designator: OldDesignator=P12 NewDesignator=P18_Drive2Pin2
+Change Component Designator: OldDesignator=P13 NewDesignator=P13_U_StepperInterface6
+Change Component Designator: OldDesignator=P14 NewDesignator=P22_Sense2Pin2
+Change Component Designator: OldDesignator=P15 NewDesignator=P22_Sense2Pin5
+Change Component Designator: OldDesignator=P16 NewDesignator=P16_U_StepperInterface6
+Change Component Designator: OldDesignator=P17 NewDesignator=P20_Sense3Pin3
+Change Component Designator: OldDesignator=P18 NewDesignator=P18_Drive2Pin4
+Change Component Designator: OldDesignator=P19 NewDesignator=P22_Sense2Pin4
+Change Component Designator: OldDesignator=P20 NewDesignator=P20_Sense3Pin4
+Change Component Designator: OldDesignator=P21 NewDesignator=P18_Drive2Pin3
+Change Component Designator: OldDesignator=P22 NewDesignator=P22_Sense2Pin6
+Change Component Designator: OldDesignator=P23 NewDesignator=P13_U_StepperInterface5
+Change Component Designator: OldDesignator=P24 NewDesignator=P16_U_StepperInterface5
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q3_Drive2Pin1
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q3_Drive2Pin2
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q3_Drive2Pin4
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q3_Drive2Pin3
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetP22_Drive2Pin1_1 New Net Name=NetP18_Drive2Pin1_1
+Change Net Name : Old Net Name=NetP22_Drive2Pin2_1 New Net Name=NetP18_Drive2Pin2_1
+Change Net Name : Old Net Name=NetP22_Drive2Pin3_1 New Net Name=NetP18_Drive2Pin3_1
+Change Net Name : Old Net Name=NetP22_Drive2Pin4_1 New Net Name=NetP18_Drive2Pin4_1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR1_1
+Added Member To Class: ClassName=U_LMR14050_mod Member=Component C7 Cap
+Added Member To Class: ClassName=U_StepperInterface2 Member=Component C11_U_StepperInterface2 (C11) EEEFK1V680XP
+Added Member To Class: ClassName=U_StepperInterface6 Member=Component C11_U_StepperInterface6 (C11) EEEFK1V680XP
+Added Member To Class: ClassName=U_POS3V3 Member=Component C15 EEEFK1V680XP
+Added Member To Class: ClassName=Main Member=Component U1 Teensy3p6
+Added Member To Class: ClassName=U_LMR14050_mod Member=Component U2 LMR14050SDDAR
